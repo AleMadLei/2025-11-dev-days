@@ -7,11 +7,16 @@ web/libraries
 web/modules/contrib
 web/themes/contrib
 web/profiles/contrib
+web/profiles/drupal_cms_installer
+web/sites/example*
 web/sites/*/files
 web/sites/*/default*
+web/*/README.txt
 
-web/index.php
-web/autoload.php
+web/.csslintrc
+web/.eslintignore
+web/.eslintrc.json
+web/example.gitignore
+web/*.php
 web/README.md
 web/INSTALL.txt
-web/update.php
