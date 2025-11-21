@@ -1,0 +1,17 @@
+vendor
+.idea
+recipes
+
+web/core
+web/libraries
+web/modules/contrib
+web/themes/contrib
+web/profiles/contrib
+web/sites/*/files
+web/sites/*/default*
+
+web/index.php
+web/autoload.php
+web/README.md
+web/INSTALL.txt
+web/update.php
