@@ -12,6 +12,7 @@ web/sites/example*
 web/sites/*/files
 web/sites/*/default*
 web/*/README.txt
+web/components
 
 web/.csslintrc
 web/.eslintignore
